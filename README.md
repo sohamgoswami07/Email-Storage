@@ -65,5 +65,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 Created and developed by Soham Goswami.
 
 ## Contact
-For issues or suggestions, open an issue on GitHub or put a mail on <a href="https://www.linkedin.com/in/soham-goswami-2a5b84143/">LinkedIn</a>.
+For issues or suggestions, open an issue on GitHub or put a message on <a href="https://www.linkedin.com/in/soham-goswami-2a5b84143/">LinkedIn</a>.
 
