@@ -25,7 +25,10 @@ Ensure you have the following installed:
 2. Create and activate a virtual environment:
    ```sh
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   # on MAC use
+   source venv/bin/activate
+   # On Windows use
+   venv\Scripts\activate
    ```
 3. Install dependencies:
    ```sh
