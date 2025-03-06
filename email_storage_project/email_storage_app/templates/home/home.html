@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% load static %}
+
+{% block header_content %}
+<div class="grid md:grid-cols-2 items-center gap-4 h-full">
+    <div class="items-center justify-center">
+        <h3 class="text-3xl font-bold m-4">Effortless Email Storage, Always at Your Fingertips.</h3>
+        <p class="text-xl m-4 italic text-slate-700">A unique email storage platform allowing users to store, download, and manage handwritten emails with ease and security.</p>
+    </div>
+    <div class="items-center justify-center">
+        <img src="{% static "/assets/header_img.jpg" %}" alt="">
+    </div>
+</div>
+{% endblock %}
+
+{% block about_us %}
+<div class="m-12 p-8 text-center border rounded-lg">
+    <h3 class="text-3xl font-bold m-4">About Us</h3>
+    <p class="text-xl m-4 italic text-slate-700">"We aim to revolutionize email storage by offering a unique platform where users can securely store, download, and manage handwritten emails. All emails are handwritten, with no AI involved, ensuring a 100% handmade email experience that bypasses AI detectors. Our mission is to provide an easy, organized, and accessible way to preserve personal messages, ensuring they are always available when you need them."</p>
+</div>
+{% endblock %}
