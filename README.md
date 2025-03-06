@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-username/email-storage.git](https://github.com/sohamgoswami07/Email-Storage.git)
+   git clone https://github.com/sohamgoswami07/Email-Storage.git
    cd email_storage_project
    ```
 2. Create and activate a virtual environment:
